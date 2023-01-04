@@ -84,4 +84,4 @@ npm i map2map-converter
 
 **The MIT License (MIT)**
 
-Copyright © 2022-2023 Dmitry Vyazin
+Copyright © 2023 Dmitry Vyazin
